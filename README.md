@@ -3,7 +3,7 @@
 <body>
 <br>
 <div align="center">
-<img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="300px">
+<img src="https://media1.tenor.com/m/35W-9kJ5aXkAAAAC/luffy-yo.gif" width="300px">
 </div>
 <br>
 
@@ -24,7 +24,7 @@ Gender: Male.
 Location: Chandigarh, India.
 Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
 Hobbies: Gaming, Coding while I am listening music 🎶.
-Languages: CPlusPlus, CSharp, Python, NodeJS, Html, Css.
+Languages: CPlusPlus, CSharp, Css, Html, Python.
 Learning: Computer Science.
 Telegram: @EVERYONExKSK.
 ```
@@ -34,12 +34,48 @@ Telegram: @EVERYONExKSK.
 <h2 align="center"> 🔎 Knowledge 📖 </h2>
 </div>
 <div align = "center">
-<p align = "justify">I worked using Python to code my Desktop App. A year ago, I learned Html and Css, also some reverse engineering to develop apps and telegram bots. Nowdays, I focus on Computer Science.
-So I do my best in every specialtation area. My programming languages are NodeJS, CSharp, C++, Python, Shell Script, Powershell Script, Html and Css. Check my repositories and give your opinion I'll do my best and be better every day.<br></p>
-<p align = "center">
-     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=windows,bots,github,py,git,gitlab,heroku,linux,ubuntu,vscode,visualstudio,bash,c,cs,cpp,css,html,htmx,mongodb,redis,aws,azure,docker,vim,cloudflare,discord,lua,php,powershell,stackoverflow,sqlite,vercel&perline=8"alt="My Skills"/> 
-    </a>
+<p align = "justify"><b>I worked using Python to code. A year ago, I learned Html and Css, also some reverse engineering to develop apps and telegram bots. Nowdays, I focus on Computer Science.
+So I do my best in every specialtation area. My programming languages are Python, NodeJS, C, C#, C++, Css, Html, Shell Script and Powershell Script. Check my repositories and give your opinion I'll do my best and be better every day.</b><br></p>
+
+<h2 align="center"><b>⚒️ Languages-Frameworks-Tools 🛠️</b></h2>
+<h3 align="left">Languages</h3>
+<p align="left"> 
+<a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/> </a> 
+<a href="http://www.open-std.org/jtc1/sc22/wg14/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/> </a> 
+<a href="https://cplusplus.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/> </a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/> </a>
+<a href="https://www.css3.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/> </a> 
+<a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="JAVA" width="60" height="60"/> </a> 
+<a href="https://www.html.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/> </a> 
+<a href="https://www.php.net" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/> </a>
+</p>
+
+
+<h3 align="left">Databases</h3>
+<p align="left"> 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a>
+<a href="https://redis.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/> </a>
+
+</p>
+
+<h3 align="left">Tools</h3>
+<p align="left"> 
+<a href="https://tiswww.case.edu/php/chet/bash/bashtop.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="bash" width="60" height="60"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="60" height="60"/> </a>          
+</p>
+
+<h3 align="left">Servers & Hosts</h3>
+<p align="left"> 
+<a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="github" width="60" height="60"/> </a> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60"/> </a>
+<a href="https://m.do.co/c/698f2a298346" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="60" height="60"/></a>
+<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60"/> </a>      
+<a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>
+<a href="https://www.oracle.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/></a>
+<a href="https://ubuntu.com" target="_blank"> <img src="https://img.icons8.com/color/48/null/ubuntu--v1.png" alt="ubuntu" width="60" height="60"/> </a> 
 </p>
 </div>
 <br>
@@ -82,7 +118,7 @@ So I do my best in every specialtation area. My programming languages are NodeJS
   </div>
 <br>
 
-<details><summary><h2>Contact me :speech_balloon:</h2></summary><br>
+<details><summary><h2>🔗 Contact me</h2></summary><br>
     
   <b>If you wanted to contact to me about anything, be it some sort of doubt or just to hangout and talk ☺️</b>
 </br>
