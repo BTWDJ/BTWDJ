@@ -35,7 +35,9 @@ Telegram: @EVERYONExKSK.
 </div>
 <div align = "center">
 <p align = "justify"><b>I worked using Python to code. A year ago, I learned Html and Css, also some reverse engineering to develop apps and telegram bots. Nowdays, I focus on Computer Science.
-So I do my best in every specialtation area. My programming languages are Python, NodeJS, C, C#, C++, Css, Html, Shell Script and Powershell Script. Check my repositories and give your opinion I'll do my best and be better every day.</b><br></p>
+So I do my best in every specialtation area. My programming languages are Python, NodeJS, C, C#, C++, Css, Html, Shell Script and Powershell Script. Check my repositories and give your opinion I'll do my best and be better every day.</b>
+<br>
+</p>
 
 <h2 align="center"><b>⚒️ Languages-Frameworks-Tools 🛠️</b></h2>
 <h3 align="left">Languages</h3>
