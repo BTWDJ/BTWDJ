@@ -34,7 +34,7 @@ Telegram: @EVERYONExKSK.
 <h2 align="center"> 🔎 Knowledge 📖 </h2>
 </div>
 <div align = "center">
-<p align = "justify"><b>A self-taught developer from India who loves to work with python Css and Html.I worked using Python to code. A year ago, I learned Html and Css, also some reverse engineering to develop apps and telegram bots. Nowdays, I focus on Computer Science.
+<p align = "justify"><b>A Self-taught Developer from India who loves to work with Python, Css and Html. A year ago, I learned Html and Css, also some reverse engineering to develop apps and telegram bots. Nowdays, I focus on Computer Science.
 So I do my best in every specialtation area. My programming languages are Python, NodeJS, C, C#, C++, Css, Html, Shell Script and Powershell Script. Check my repositories and give your opinion I'll do my best and be better every day.</b>
 <br>
 </p>
