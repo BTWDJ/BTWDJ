@@ -34,7 +34,7 @@ Telegram: @EVERYONExKSK.
 <h2 align="center"> 🔎 Knowledge 📖 </h2>
 </div>
 <div align = "center">
-<p align = "justify"><b>I worked using Python to code. A year ago, I learned Html and Css, also some reverse engineering to develop apps and telegram bots. Nowdays, I focus on Computer Science.
+<p align = "justify"><b>A self-taught developer from India who loves to work with python Css and Html.I worked using Python to code. A year ago, I learned Html and Css, also some reverse engineering to develop apps and telegram bots. Nowdays, I focus on Computer Science.
 So I do my best in every specialtation area. My programming languages are Python, NodeJS, C, C#, C++, Css, Html, Shell Script and Powershell Script. Check my repositories and give your opinion I'll do my best and be better every day.</b>
 <br>
 </p>
@@ -128,8 +128,16 @@ So I do my best in every specialtation area. My programming languages are Python
 </br>
 </br>
 
-  <a href="https://telegram.dog/everyonexksk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
-  <a href="https://www.instagram.com/notyourksk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <summary>Let's connect 🤝</summary>
+  
+  | <a align="center" href="https://www.instagram.com/notyourksk"><img align="center" width="20" src="https://static.cdnlogo.com/logos/i/28/instagram.png"> @NotYourKSK</a> | <a href="https://discord.com/users/593308295146504192"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"> KSK #1149</a> | <a href="https://telegram.dog/everyonexksk"><img align="center" width="20" src="https://static.cdnlogo.com/logos/t/6/telegram.svg"> @EVERYONExKSK</a>
+|---|---|
+
+
+  <summary>A Quote from a Random Developer 🧬</summary>
+  
+  | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple)](https://github.com/KSKOP69/KSKOP69) |
+|---|
 
 </p>
 </details>
