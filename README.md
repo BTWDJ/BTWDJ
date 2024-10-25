@@ -122,14 +122,14 @@ So I do my best in every specialtation area. My programming languages are Python
 
 <details><summary><h2>🔗 Let's connect 🤝</h2></summary><br>
     
-  <b>If you wanted to contact to me about anything, be it some sort of doubt or just to hangout and talk ☺️</b>
+  <b>If you wanted to talk to me about anything, be it some sort of doubt or just to hangout. ☺️</b>
 </br>
-  <b>All the contact methods are provided given below. I will definitely reply.</b>
+  <b>All My Social media handles are provided given below. I will definitely reply. Be Patient. 👍</b>
 </br>
 </br>
 
   | <a align="center" href="https://www.instagram.com/notyourksk"><img align="center" width="20" src="https://static.cdnlogo.com/logos/i/28/instagram.png"> @NotYourKSK</a> | <a href="https://discord.com/users/593308295146504192"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"> KSK #1149</a> | <a href="https://telegram.dog/everyonexksk"><img align="center" width="20" src="https://static.cdnlogo.com/logos/t/6/telegram.svg"> @EVERYONExKSK</a> |
-|---|---|
+|---|---|---|
 
 </p>
 </details>
