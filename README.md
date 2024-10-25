@@ -129,16 +129,19 @@ So I do my best in every specialtation area. My programming languages are Python
 </br>
 
   <summary>Let's connect 🤝</summary>
-  
+
   | <a align="center" href="https://www.instagram.com/notyourksk"><img align="center" width="20" src="https://static.cdnlogo.com/logos/i/28/instagram.png"> @NotYourKSK</a> | <a href="https://discord.com/users/593308295146504192"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"> KSK #1149</a> | <a href="https://telegram.dog/everyonexksk"><img align="center" width="20" src="https://static.cdnlogo.com/logos/t/6/telegram.svg"> @EVERYONExKSK</a>
 |---|---|
 
-
-  <summary>A Quote from a Random Developer 🧬</summary>
-  
-  | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple)](https://github.com/KSKOP69/KSKOP69) |
-|---|
-
 </p>
 </details>
+
+ <details>
+  <summary>A Quote from a random Developer 🧬</summary>
+
+  | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple)](https://github.com/KSKOP69/KSKOP69) |
+|---|
+  
+  </details>
+
 <hr>
