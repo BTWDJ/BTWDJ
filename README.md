@@ -120,7 +120,7 @@ So I do my best in every specialtation area. My programming languages are Python
   </div>
 <br>
 
-<details><summary><h2>🔗 Contact me</h2></summary><br>
+<details><summary><h2>🔗 Let's connect 🤝</h2></summary><br>
     
   <b>If you wanted to contact to me about anything, be it some sort of doubt or just to hangout and talk ☺️</b>
 </br>
@@ -128,16 +128,14 @@ So I do my best in every specialtation area. My programming languages are Python
 </br>
 </br>
 
-  <summary>Let's connect 🤝</summary>
-
-  | <a align="center" href="https://www.instagram.com/notyourksk"><img align="center" width="20" src="https://static.cdnlogo.com/logos/i/28/instagram.png"> @NotYourKSK</a> | <a href="https://discord.com/users/593308295146504192"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"> KSK #1149</a> | <a href="https://telegram.dog/everyonexksk"><img align="center" width="20" src="https://static.cdnlogo.com/logos/t/6/telegram.svg"> @EVERYONExKSK</a>
+  | <a align="center" href="https://www.instagram.com/notyourksk"><img align="center" width="20" src="https://static.cdnlogo.com/logos/i/28/instagram.png"> @NotYourKSK</a> | <a href="https://discord.com/users/593308295146504192"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"> KSK #1149</a> | <a href="https://telegram.dog/everyonexksk"><img align="center" width="20" src="https://static.cdnlogo.com/logos/t/6/telegram.svg"> @EVERYONExKSK</a> |
 |---|---|
 
 </p>
 </details>
 
- <details>
-  <summary>A Quote from a random Developer 🧬</summary>
+<br>
+ <details><summary><h2>A Quote from a random Developer 🧬<h2></summary>
 
   | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple)](https://github.com/KSKOP69/KSKOP69) |
 |---|
