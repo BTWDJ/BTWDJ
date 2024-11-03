@@ -85,10 +85,10 @@ So I do my best in every specialtation area. My programming languages are Python
 <h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
 <div> 
 <p align = "center">
-  <a href="https://github.com/KSKOP69"><img alt="KSK's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=KSKOP69&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=28&rank_icon=github&hide_border=true&icon_color=F8D866" height="192px"/></a>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KSKOP69&theme=midnight-purple&hide_border=true&card_width=500&card_height=200" alt="GitHub Streak" /></a>
-  <a herf="https://github.com/KSKOP69/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KSKOP69&no-bg=true&margin-w=15&margin-h=10&row=1&column=8&count_private=true&include_all_commits=true&theme=midnight-purple" alt="Trophies"></a></br></br>
-  <a href="https://github.com/KSKOP69"><img alt="KSK's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSKOP69&layout=compact&theme=midnight-purple&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/KSKOP69"><img alt="KSK's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=KSKOP69&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=28&rank_icon=github&hide_border=true&icon_color=F8D866" width="49%"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KSKOP69&theme=midnight-purple&hide_border=true&card_width=500&card_height=200" alt="GitHub Streak" width="49%"/></a>
+  <a herf="https://github.com/KSKOP69/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KSKOP69&no-bg=true&margin-w=15&margin-h=10&row=1&column=8&count_private=true&include_all_commits=true&theme=midnight-purple" alt="Trophies" width="90%"/></a><br>
+  <a href="https://github.com/KSKOP69"><img alt="KSK's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSKOP69&layout=compact&theme=midnight-purple&hide_border=true" width="49%"/></a>
   <a href="https://github.com/KSKOP69"><img alt="KSK's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KSKOP69&theme=midnight-purple&bg_color=000000&title_color=9f4bff&hide_border=true&radius=4.5&color=9f4bff&line=ff0000&point=ff5500&area=true&area_color=ff6161" /></a>
 </p>
 </div>
@@ -120,26 +120,31 @@ So I do my best in every specialtation area. My programming languages are Python
   </div>
 <br>
 
-<details><summary><h2>🔗 Let's connect 🤝</h2></summary><br>
-    
-  <b>If you wanted to talk to me about anything, be it some sort of doubt or just to hangout. ☺️</b>
-</br>
-  <b>All My Social media handles are provided given below. I will definitely reply. Be Patient. 👍</b>
-</br>
-</br>
-
-  | <a align="center" href="https://www.instagram.com/notyourksk"><img align="center" width="20" src="https://static.cdnlogo.com/logos/i/28/instagram.png"> @NotYourKSK</a> | <a href="https://discord.com/users/593308295146504192"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"> KSK #1149</a> | <a href="https://telegram.dog/everyonexksk"><img align="center" width="20" src="https://static.cdnlogo.com/logos/t/6/telegram.svg"> @EVERYONExKSK</a> |
-|---|---|---|
-
-</p>
+<details>
+  <summary><h2>A Quote from a random Developer 💭</h2></summary>
+  <div align="center">
+    <a href="https://github.com/KSKOP69/KSKOP69">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" alt="Readme Quotes">
+    </a>
+  </div>
 </details>
-
 <br>
- <details><summary><h2>A Quote from a random Developer 🧬<h2></summary>
 
-  | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple)](https://github.com/KSKOP69/KSKOP69) |
-|---|
-  
-  </details>
+<details>
+  <summary><h2>🔗 Let's connect 🤝</h2></summary>
+  <div align="center">
+    <p><b>If you want to talk to me about anything, be it some sort of doubt or just to hang out. ☺️</b></p>
+    <p><b>All my social media handles are provided below. I will definitely reply. Be patient. 👍</b></p>
+    <br>
+    <table>
+      <tr>
+        <td><a href="https://www.instagram.com/notyourksk"><img width="25" src="https://static.cdnlogo.com/logos/i/28/instagram.png"><b>@NotYourKSK</b></a></td>
+        <td><a href="https://discord.com/users/593308295146504192"><img width="25" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"><b>KSK #1149</b></a></td>
+        <td><a href="https://telegram.dog/everyonexksk"><img width="25" src="https://static.cdnlogo.com/logos/t/6/telegram.svg"><b>@EVERYONExKSK</b></a></td>
+      </tr>
+    </table>
+  </div>
+</details>
+<br>
 
 <hr>
