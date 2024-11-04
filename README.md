@@ -86,7 +86,7 @@ So I do my best in every specialtation area. My programming languages are Python
 <div> 
 <p align = "center">
   <a href="https://github.com/KSKOP69"><img alt="KSK's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=KSKOP69&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=28&rank_icon=github&hide_border=true&icon_color=F8D866" width="49%"/></a>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KSKOP69&theme=midnight-purple&hide_border=true&card_width=500&card_height=200" alt="GitHub Streak" width="49%"/></a>
+  <a href="https://github.com/KSKOP69"><img src="https://github-readme-streak-stats.herokuapp.com?user=KSKOP69&theme=midnight-purple&hide_border=true&card_width=500&card_height=200" alt="GitHub Streak" width="49%"/></a>
   <a herf="https://github.com/KSKOP69/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KSKOP69&no-bg=true&margin-w=15&margin-h=10&row=1&column=8&count_private=true&include_all_commits=true&theme=midnight-purple" alt="Trophies" width="90%"/></a><br>
   <a href="https://github.com/KSKOP69"><img alt="KSK's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSKOP69&layout=compact&theme=midnight-purple&hide_border=true" width="49%"/></a>
   <a href="https://github.com/KSKOP69"><img alt="KSK's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KSKOP69&theme=midnight-purple&bg_color=000000&title_color=9f4bff&hide_border=true&radius=4.5&color=9f4bff&line=ff0000&point=ff5500&area=true&area_color=ff6161" /></a>
@@ -133,8 +133,8 @@ So I do my best in every specialtation area. My programming languages are Python
 <details>
   <summary><h2>🔗 Let's connect 🤝</h2></summary>
   <div align="center">
-    <p><b>If you want to talk to me about anything, be it some sort of doubt or just to hang out. ☺️</b></p>
-    <p><b>All my social media handles are provided below. I will definitely reply. Be patient. 👍</b></p>
+    <p><b>If you want to talk to me about anything, be it some sort of doubt or just to hang out. ☺️</b><br>
+    <b>All my social media handles are provided below. I will definitely reply. Be patient. 👍</b></p>
     <br>
     <table>
       <tr>
