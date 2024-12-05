@@ -142,9 +142,24 @@ So I do my best in every specialtation area. My programming languages are Python
     <br>
     <table>
       <tr>
-        <td><a href="https://www.instagram.com/notyourksk"><img width="25" src="https://static.cdnlogo.com/logos/i/28/instagram.png"><b>@NotYourKSK</b></a></td>
-        <td><a href="https://discord.com/users/593308295146504192"><img width="25" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"><b>KSK #1149</b></a></td>
-        <td><a href="https://telegram.dog/everyonexksk"><img width="25" src="https://static.cdnlogo.com/logos/t/6/telegram.svg"><b>@EVERYONExKSK</b></a></td>
+        <td align="center" style="width: 40%;">
+          <a href="https://www.instagram.com/notyourksk">
+            <img width="40" src="https://static.cdnlogo.com/logos/i/28/instagram.png"><br>
+            <b>@NotYourKSK</b>
+          </a>
+        </td>
+        <td align="center" style="width: 40%;">
+          <a href="https://discord.com/users/593308295146504192">
+            <img width="40" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"><br>
+            <b>KSK #1149</b>
+          </a>
+        </td>
+        <td align="center" style="width: 40%;">
+          <a href="https://telegram.dog/everyonexksk">
+            <img width="50" src="https://static.cdnlogo.com/logos/t/6/telegram.svg"><br>
+            <b>@EVERYONExKSK</b>
+          </a>
+        </td>
       </tr>
     </table>
   </div>
