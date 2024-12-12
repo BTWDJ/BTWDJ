@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there I'm Karan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+<h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&duration=6000&center=true&vCenter=true&width=1600&height=140&lines=%E2%9C%A8+Hi+there+%F0%9F%91%8B+I%27m+Karan'></h1>
 
 <body>
 <br>
